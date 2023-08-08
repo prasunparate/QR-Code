@@ -1,0 +1,22 @@
+.title{
+  width=device-width; 
+  color: rgb(55, 155, 87);
+  font-size: 5vw;
+  text-align: center;
+}
+
+.text{
+  align-items: center;
+}
+
+.button{
+  border: none;
+  border-radius: 10px;
+  padding: 10px 24px;
+  background-color: rgb(73, 185, 109);
+}
+
+.button:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(241, 249, 0, 0.19);
+}
+
